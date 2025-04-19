@@ -1,0 +1,5 @@
+com\pranav\medical\model\Patient.class
+com\pranav\medical\repository\PatientRepository.class
+com\pranav\medical\SecureMedicalRecordsPortalApplication.class
+com\pranav\medical\service\PatientService.class
+com\pranav\medical\controller\PatientController.class
