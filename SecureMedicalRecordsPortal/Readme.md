@@ -13,7 +13,7 @@ A Spring Boot-based RESTful web application designed for managing patient medica
 
 | Add Patient | Get All Patients |
 |-------------|------------------|
-| ![Add Patient](https://github.com/mpranav38/-Secure-Medical-Records-Portal/blob/main/SecureMedicalRecordsPortal/Output%20screenshots/add_patient.png) | ![Get All](https://github.com/mpranav38/-Secure-Medical-Records-Portal/blob/main/SecureMedicalRecordsPortal/Output%20screenshots/get_patients.png) |
+| ![Add Patient](https://github.com/mpranav38/-Secure-Medical-Records-Portal/blob/main/SecureMedicalRecordsPortal/Output%20screenshots/Screenshot%202025-04-19%20130747.png) | ![Get All]() |
 
 For all screenshots 👉 [View Full Output Folder](https://github.com/mpranav38/-Secure-Medical-Records-Portal/tree/main/SecureMedicalRecordsPortal/Output%20screenshots)
 
